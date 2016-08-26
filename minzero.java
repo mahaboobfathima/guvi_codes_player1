@@ -32,5 +32,5 @@ public static void main(String[] args) {
 			minzero = i;
 			min = count;
 	}
-	System.out.println(minzero);
+	System.out.println(minzero+1);
 }}
